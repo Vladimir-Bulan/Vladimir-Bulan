@@ -8,7 +8,7 @@
 - 📚 Ampliando mis conocimientos en desarrollo backend y arquitectura de software
 - 🎯 Objetivos: Dominar nuevas tecnologías y crear soluciones innovadoras
 
----
+
 
 ### 💻 Lenguajes que uso
 
