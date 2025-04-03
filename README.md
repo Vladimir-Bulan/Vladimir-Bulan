@@ -1,10 +1,9 @@
 # ¡Hola! 👋 Soy **Vladimir Bulan**
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zAHH7hHvSB2/giphy.gif" />
 
-## 🚀 Desarrollador Full Stack | 📚 Estudiante UTN | ⚖️ Abogado en formación
+## 🚀 Desarrollador Full Stack | 📚 Estudiante UTN | ⚖️ Abogado en formación | Emprendedor
 
-- 💻 Actualmente trabajando en proyectos con stack MERN (MongoDB, Express, React, Node.js)
+<img align="right" alt="GIF animado de programación" width="460" src="https://camo.githubusercontent.com/a5ef8e36ecc4573a9ca9089a44af0f48b4774e21bf88087716644e51e9cdbeca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" />
 - 📚 Ampliando mis conocimientos en desarrollo backend y arquitectura de software
 - 🎯 Objetivos: Dominar nuevas tecnologías y crear soluciones innovadoras
 
