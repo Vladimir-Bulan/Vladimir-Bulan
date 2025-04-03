@@ -6,9 +6,5 @@
 
 ---
 
-### 🔥 **Cómo personalizarlo aún más**:  
-1. **Banner personalizado**: Usa [Canva](https://www.canva.com/) con tus colores favoritos.  
-2. **GIFs reales**: Graba tu pantalla con [ScreenToGif](https://www.screentogif.com/) mostrando tus proyectos.  
-3. **Repositorios fijados**: Asegúrate de que tus 6 repositorios principales tengan READMEs detallados.  
-
-¡Así tu perfil **destacará entre miles**! ✨ ¿Necesitas ayuda para ajustar algo? 😃
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=neon-dark&hide_border=true)  
