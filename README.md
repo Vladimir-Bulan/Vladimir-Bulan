@@ -34,8 +34,8 @@
 ## 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vladimir-Bulan&show_icons=true&theme=dracula" alt="Estadísticas">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Bulan&layout=compact&theme=dracula" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vladimir-Bulan&show_icons=true&theme=dracula&hide_title=true&layout=compact" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Bulan&layout=compact&theme=dracula&hide_title=true" width="45%">
 </p>
 
 ---
