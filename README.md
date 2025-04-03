@@ -1,18 +1,7 @@
-# ¡Hola! 👋 Soy Vladimir Bulan Georgieff 
+# ¡Hola! 👋 Soy **Alexander Vladimir Bulan Georgieff** 
 
-🚀 Desarrollador [Frontend/Backend/Full Stack]  
-💻 Apasionado por la tecnología y el código limpio  
-🌍 De San Miguel de Tucumán/Argentina  
+🚀 **Full Stack Developer** | 📚 **Estudiante de Programación UTN** | ⚖️ **Abogado en formación**  
+📍 **San Miguel de Tucumán, Argentina** | 📧 `vladimirbulan0@gmail.com`  
 
-### 🔧 Tecnologías que uso  
-- JavaScript, Python, C#, SQL, HTML, CSS
-- React, Node.js, Next.js
-- Git, Docker, AWS  
-
-### 📊 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula)  
-
-### 📫 ¡Conéctate conmigo!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](tu-enlace-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](tu-enlace-twitter)  
-![GIF divertido](https://media.giphy.com/media/.../giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtN3RqZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZzB6Y2VjZ
