@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy **Vladimir Bulan**
+# ¡Hola! 👋 Soy **Vladimir Bulan Georgieff**
 
 
 ## 🚀 Desarrollador Full Stack | 📚 Estudiante UTN | ⚖️ Abogado en formación | Emprendedor
