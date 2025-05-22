@@ -12,8 +12,6 @@ Me interesa el desarrollo tecnológico con impacto, el trabajo en equipo y la in
 
 ##  Tecnologías que manejo
 
-# Technologies
-
 **Programming Languages:** JavaScript, Python, C#, HTML5, CSS3, SQL  
 **Tools:** Git, GitHub, VS Code, Postman, Docker  
 **Security:** Kali Linux, OWASP, Pentesting  
@@ -25,9 +23,8 @@ Me interesa el desarrollo tecnológico con impacto, el trabajo en equipo y la in
 
 ---
 
+# Contact
 
-##  Contacto
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thebulan.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-bulan-60083b21b/)  
+- Gmail: [thebulan.dev@gmail.com](mailto:thebulan.dev@gmail.com)  
+- LinkedIn: [linkedin.com/in/vladimir-bulan-60083b21b](https://www.linkedin.com/in/vladimir-bulan-60083b21b/) 
 
