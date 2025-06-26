@@ -13,7 +13,7 @@ Me interesa el desarrollo tecnológico con impacto, el trabajo en equipo y la in
 ##  Tecnologías que manejo
 
 **Programming Languages:** JavaScript, Python, C#, HTML5, CSS3, SQL  
-**Tools:** Git, GitHub, VS Code, Postman, Docker  
+**Tools:** Git, GitHub, VS Code, Postman, Docker, N8N
 **Security:** Kali Linux, OWASP, Pentesting  
 **Frontend:** React, Bootstrap, WordPress, Tailwind CSS  
 **Backend:** Node.js, Express, REST API, JWT  
